@@ -1,22 +1,13 @@
 
- function calculate(){
-    let sum= 7+9;
-
-
-};
-console.log(sum);
-
-
+     function divideNumbers(a, b){
+        (let = 12/2);
+        return divide;
+    };
+console.log(divideNumbers);
 
 
 
 
-
-
-
-
-
-   
 
 
 
