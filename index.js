@@ -1,9 +1,10 @@
 
      function divideNumbers(a, b){
-        (let = 12/2);
-        return divide;
+        var a=12;
+        var b=3;
+        return a/b;
     };
-console.log(divideNumbers);
+console.log(divideNumbers(1, 3));
 
 
 
